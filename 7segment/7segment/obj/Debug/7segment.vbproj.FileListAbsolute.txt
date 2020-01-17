@@ -1,0 +1,11 @@
+C:\Users\ROBERTO\source\repos\7segment\7segment\bin\Debug\7segment.exe.config
+C:\Users\ROBERTO\source\repos\7segment\7segment\bin\Debug\7segment.exe
+C:\Users\ROBERTO\source\repos\7segment\7segment\bin\Debug\7segment.pdb
+C:\Users\ROBERTO\source\repos\7segment\7segment\bin\Debug\7segment.xml
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\7segment.vbprojAssemblyReference.cache
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\_7segment.Form1.resources
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\_7segment.Resources.resources
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\7segment.vbproj.GenerateResource.cache
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\7segment.exe
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\7segment.xml
+C:\Users\ROBERTO\source\repos\7segment\7segment\obj\Debug\7segment.pdb
